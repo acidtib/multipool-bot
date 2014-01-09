@@ -1,0 +1,7 @@
+# Logfile created on 2014-01-08 22:36:26 -0500 by logger.rb/43513
+I, [2014-01-08T22:36:26.018953 #21329]  INFO -- : 0:  cinch (2.0.11) from /Users/dan/.rvm/gems/ruby-2.1.0-preview2/specifications/cinch-2.0.11.gemspec
+I, [2014-01-08T22:36:26.019984 #21329]  INFO -- : 0:  mime-types (2.0) from /Users/dan/.rvm/gems/ruby-2.1.0-preview2/specifications/mime-types-2.0.gemspec
+I, [2014-01-08T22:36:26.020843 #21329]  INFO -- : 0:  mini_portile (0.5.2) from /Users/dan/.rvm/gems/ruby-2.1.0-preview2/specifications/mini_portile-0.5.2.gemspec
+I, [2014-01-08T22:36:26.021397 #21329]  INFO -- : 0:  nokogiri (1.6.1) from /Users/dan/.rvm/gems/ruby-2.1.0-preview2/specifications/nokogiri-1.6.1.gemspec
+I, [2014-01-08T22:36:26.021866 #21329]  INFO -- : 0:  rest-client (1.6.7) from /Users/dan/.rvm/gems/ruby-2.1.0-preview2/specifications/rest-client-1.6.7.gemspec
+I, [2014-01-08T22:36:26.022315 #21329]  INFO -- : 0:  bundler (1.5.0) from /Users/dan/.rvm/gems/ruby-2.1.0-preview2@global/specifications/bundler-1.5.0.gemspec

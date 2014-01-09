@@ -19,7 +19,7 @@ bot = Cinch::Bot.new do
   	mining = Nokogiri::HTML(RestClient.post 'https://www.multipool.us', {:params => {'foo' => 'bar'}})
 	mine = mining.css("#multiport-table tbody tr td .med")
 
-  	m.reply "Hey #{m.user.nick} We are mining scrypt: #{mine[0].text.upcase} and sha-256: #{mine[1].text.upcase}"
+  	m.reply "Hey #{m.user.nick} we are mining scrypt: #{mine[0].text.upcase} and sha-256: #{mine[1].text.upcase}"
   end
 end
 
